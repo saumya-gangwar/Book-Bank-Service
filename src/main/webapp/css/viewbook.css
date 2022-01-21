@@ -1,0 +1,11 @@
+a#disabled{
+ 	pointer-events: none;
+  	cursor: default;
+}
+
+.book_container {
+ 	
+	margin-left : 25%;
+	margin-right: 25%;
+
+}
